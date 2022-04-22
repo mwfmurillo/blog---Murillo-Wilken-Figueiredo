@@ -1,4 +1,116 @@
 *
+
+html {
+
+}
+
+#top {
+border: 2px solid;
+border-radius: 10px;
+background-color: #ebd494;
+}
+
+#perfil {
+border-radius: 50%;
+
+}
+
+
+
+h1 {
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-size: 25px;
+color: #ddb11e;
+margin-bottom: 10px;
+
+}
+
+h4 {
+font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+
 header {
-font-family: 'Courier New', Courier, monospace;
+display: block;
+float: left;
+width: 100%;
+padding: 20px;
+
+}
+
+section {
+font-size: 1.5rem;
+display: block;
+float: left;
+width: 100%;
+
+
+}
+
+p {
+font-family: 'Plus Jakarta Sans', sans-serif;
+line-height: 30px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+body {
+display: block;
+float: left;
+}
+
+nav ul li {
+margin: 5px 40px 5px;
+padding: 10px;
+background-color: #cfdb88;
+}
+
+li {
+border-radius: 10px;
+}
+
+
+section nav {
+display: block;
+float: left;
+width: 30%;
+    
+    }
+
+
+article {
+display: block;
+float: left;
+width: 65%; 
+padding: 20px; 
+}
+
+
+.mainbody {
+max-width: 1198px;
+margin: 0; auto;
+padding: 20px;
+}
+
+form {
+padding-bottom: 80px;
+}
+
+.formulario {
+margin: 20px;
+}
+
+
+
+
+footer {
+background-color: #f3ec87;
+text-align: center;
+color: black;
+display: block;
+float: left;
+margin: 20px;
+width: 100%;
+padding: 20px;
+
 }

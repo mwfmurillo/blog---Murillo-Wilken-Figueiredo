@@ -1,21 +1,27 @@
 *
-
-html {
-
-}
-
 #top {
+max-width:1348px;
+position: static;
 border: 2px solid;
 border-radius: 10px;
-background-color: #ebd494;
+background-color: #f0d794;
 }
 
 #perfil {
 border-radius: 50%;
+border: 3px solid black;
 
 }
 
+.links {
+text-decoration: none;
+color: black;
+}
 
+.lista {
+line-height: 25px;
+padding-top: 15px;
+}
 
 h1 {
 font-family: 'Plus Jakarta Sans', sans-serif;
@@ -43,8 +49,6 @@ font-size: 1.5rem;
 display: block;
 float: left;
 width: 100%;
-
-
 }
 
 p {
@@ -67,6 +71,10 @@ background-color: #cfdb88;
 
 li {
 border-radius: 10px;
+}
+
+ul li:hover {
+background-color: rgb(240, 215, 107);
 }
 
 
@@ -93,15 +101,14 @@ padding: 20px;
 }
 
 form {
+border: 2px solid black;
+border-radius: 5px;
 padding-bottom: 80px;
 }
 
 .formulario {
 margin: 20px;
 }
-
-
-
 
 footer {
 background-color: #f3ec87;

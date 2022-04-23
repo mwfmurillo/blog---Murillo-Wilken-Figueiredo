@@ -77,14 +77,12 @@ ul li:hover {
 background-color: rgb(240, 215, 107);
 }
 
-
 section nav {
 display: block;
 float: left;
 width: 30%;
-    
-    }
-
+  
+}
 
 article {
 display: block;
@@ -93,21 +91,10 @@ width: 65%;
 padding: 20px; 
 }
 
-
 .mainbody {
 max-width: 1198px;
 margin: 0; auto;
 padding: 20px;
-}
-
-form {
-border: 2px solid black;
-border-radius: 5px;
-padding-bottom: 80px;
-}
-
-.formulario {
-margin: 20px;
 }
 
 footer {

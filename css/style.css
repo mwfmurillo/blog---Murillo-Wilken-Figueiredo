@@ -124,3 +124,40 @@ min-width: 1250px;
 padding: 5px;
 margin-bottom: 20px;
 }
+
+@media (max-width:425px) {
+html,body,
+article,section {
+overflow-x: hidden;
+}
+body {
+height: 100%;
+}
+
+body {
+width: 150%;
+}
+nav ul li {
+width: 60%;
+}
+
+header {
+width: 100%;
+
+}
+
+footer {
+    background-color: #f3ec87;
+    text-align: center;
+    color: black;
+    display: block;
+    float: left;
+    margin-left: 20px;
+    margin-right: auto;
+    width: 100%;
+    min-width: 235px;
+    padding: 5px;
+    margin-bottom: 20px;
+    }
+
+}
